@@ -1,3 +1,9 @@
+/**
+* Player class for Blackjack Game.
+*
+* @author Justin Oh (jjoh1993@gmail.com)
+* @version 01/02/2019
+*/
 
 public class Player {
 

@@ -1,3 +1,10 @@
+/** 
+* Main program for Blackjack game.
+*
+* @author Justin Oh (jjoh1993@gmail.com)
+* @version 01/02/2019
+*/
+
 import java.util.Scanner;
 
 public class BlackJack {
